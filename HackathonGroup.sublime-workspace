@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ifelse",
+				"ifelse	Meteor {{#if}} {{else}}"
+			],
+			[
+				"lazyl",
+				"lazyload-limit"
+			],
+			[
+				"hid",
+				"hideCompleted"
+			],
+			[
+				"font",
+				"font-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "FilesAustin/index.html",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "FilesAustin/CSSbuttons.html",
+			"settings":
+			{
+				"buffer_size": 236,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ".button1 {\n	padding: 5px 30px;\n	background-color: black;\n	color: white;\n	font-size: 14px;\n}\n\n.button2 {\n	padding: 5px 15px;\n	background-color: \n}",
+			"file": "FilesAustin/stylesheet.css",
+			"file_size": 91,
+			"file_write_time": 1445552026000000,
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/austinbae/Documents/GitStuff/TeamInsomniaCore/FilesAustin/CSSexample.html",
+		"/Users/austinbae/Documents/GitStuff/TeamInsomniaCore/scripts/styles.css",
+		"/Users/austinbae/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/austinbae/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/austinbae/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/austinbae/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/austinbae/Dropbox/Java/Algorithm Practice/PrimeGenerator",
+		"/Users/austinbae/Documents/Bottle/fruit_selection.tpl",
+		"/Users/austinbae/Documents/Bottle/fruit_form.py",
+		"/Users/austinbae/Documents/Bottle/hello_world.tpl",
+		"/Users/austinbae/Documents/Bottle/hello_world.py",
+		"/Users/austinbae/Documents/Bottle/pymongo_getting_started.py",
+		"/Users/austinbae/Documents/Bottle/hello.py",
+		"/Users/austinbae/Documents/Bottle/pymongo_getting_started",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/client/subscriptions.js",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/client/templates/home.html",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/client/templates/home.js",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/client/index.html",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/client/templates/template-helpers.js",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/collections.js",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/server/main.js",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/client/templates/examples.js",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/client/templates/examples.html",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/client/templates/about.html",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/client/templates/layout.html",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/my-meteor-blog.js",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/my-meteor-blog.html",
+		"/Users/austinbae/Documents/Meteor/my-meteor-blog/my-meteor-blog.css",
+		"/Users/austinbae/Documents/Meteor/simple-todos/simple-todos.css",
+		"/Users/austinbae/Documents/Meteor/simple-todos/simple-todos.html",
+		"/Users/austinbae/Documents/Meteor/simple-todos/simple-todos.js",
+		"/Users/austinbae/Documents/experiment-website/styles.css",
+		"/Users/austinbae/Documents/experiment-website/index.html",
+		"/Users/austinbae/Documents/hyunraider.github.io/stylesheet.css",
+		"/Users/austinbae/Documents/hyunraider.github.io/index.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "FilesAustin/index.html",
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "FilesAustin/CSSbuttons.html",
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "FilesAustin/stylesheet.css",
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
